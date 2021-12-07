@@ -14,5 +14,11 @@ Use command *git status*
 
 ## To View the difference between the current file version and the last commit version use command *git diff*
 
-## Viewing the histary of commits
-Use commit *git log* in the folder with our repository
+## Viewing the history of commits
+Use commit *git log* in the folder with your repository
+
+## Switching between the changes
+To go to a past version use command as such: *git checkout <commit number(from the git log command)>*
+To go back to the last commit use command *git checkout master*
+
+the End
