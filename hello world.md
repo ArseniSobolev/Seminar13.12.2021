@@ -26,3 +26,5 @@ Example:
 2. Второй элемент."
 
 6. ## The end
+
+7. ## thank you for watching
