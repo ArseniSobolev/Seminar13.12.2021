@@ -1,4 +1,4 @@
-# Git user instrictions
+# Git user instrictions, Part 1
 
 
 ## Creating a local repository
@@ -21,4 +21,14 @@ Use commit *git log* in the folder with your repository
 To go to a past version use command as such: *git checkout <commit number(from the git log command)>*
 To go back to the last commit use command *git checkout master*
 
-the End
+# Part 2 - working with remote repository
+
+
+
+1. Create a github account
+2. Create a local repository on your computer
+3. "Bind" your local and remote repository. GitHub gives instructions
+4. Send (push) your local repo to your remote repo
+5. Make changes from the remote repo
+6. Download (pull) the changes from the remote repo.
+
