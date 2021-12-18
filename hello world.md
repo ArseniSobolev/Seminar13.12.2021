@@ -1,4 +1,4 @@
-Markdown instrustions: number one
+Markdown instrustions: number 1
 
 1. To make a head line use "#" or"##"
 Example:
